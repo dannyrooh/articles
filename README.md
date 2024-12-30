@@ -24,4 +24,21 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 | --- | --- | --- |
 | *dio.me* | 28/12/2024 | https://web.dio.me/articles/ia-na-tomada-de-decisao-beneficios-estrategicos-e-limitacoes-praticas?back=%2Farticles&page=1&order=oldest |
 
+### 2. [**Scrum, como a TIA pode nos ajudar?**](./scrum-tia/readme.md)
 
+<table style="border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
+            <img src="./scrum-tia/images/tia-1.jpeg" height="150px" />
+        </td>
+        <td style="border: none;">
+            <em>#Gestão #Scrum #Ágil</em><br />
+            <em>30/12/2024</em>
+        </td>
+    </tr>
+</table>
+
+
+| Site | Publicação | Link |
+| --- | --- | --- |
+| *dio.me* |  |

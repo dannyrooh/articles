@@ -1,10 +1,14 @@
 # Scrum, como a TIA pode nos ajudar?
 
-[Scrum](images/header-tia.jpeg)
+![Scrum](images/header-tia.jpeg)
 
 ## Introdução
 
 Para entender o Scrum, é essencial compreender dois pilares fundamentais: Lean Thinking e Empirismo. Lean Thinking incentiva a eliminação de desperdícios, enquanto o Empirismo se baseia na experiência direta e na tomada de decisão fundamentada em fatos. A T.I.A ( Transparência, Inspeção e Adaptação) é a essência do Scrum, ajudando equipes a enfrentar desafios de forma iterativa e colaborativa. Esses conceitos permitem melhorar processos, reduzir riscos e entregar valor continuamente.
+
+
+![Scrum](images/tia-1.jpeg)
+
 
 ## O que é Scrum?
 
@@ -13,6 +17,8 @@ Para entender o Scrum, é essencial compreender dois pilares fundamentais: Lean 
 "O Scrum é um framework de gerenciamento de projetos, da etapa da organização ao desenvolvimento ágil de produtos complexos e adaptativos buscando o valor máximo, criado na década de 1990." - Wikipédia.
 
 De forma simples, Scrum é como um jogo de time onde todos sabem suas funções, mas precisam colaborar para atingir o mesmo gol. Assim como em uma partida de futebol, você planeja, joga, revisa as táticas e melhora para o próximo jogo.
+
+
 
 ## Qual evento importante pode ser citado para o nascimento do Scrum?
 
@@ -32,10 +38,28 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
 
 ## Fontes de referência
  
-Scrum Guide - https://scrumguides.org/ - 2024-12-30
+**Scrum Guide** - https://scrumguides.org/ - 2024-12-30
 
-Wikipédia - https://pt.wikipedia.org/wiki/Scrum#:~:text=O%20Scrum%20pronunciado%20%5Bsk%C9%BB%CA%8Cm%5D - 2024-12-30
+**Wikipédia** - https://pt.wikipedia.org/wiki/Scrum#:~:text=O%20Scrum%20pronunciado%20%5Bsk%C9%BB%CA%8Cm%5D - 2024-12-30
 
-Scrum Org - https://www.scrum.org/ - 2024-12-30
+**Scrum Org** - https://www.scrum.org/ - 2024-12-30
 
-***Artigo gerado com auxilio de inteligencia artificial (ChatGPT)***
+---
+
+***Artigo gerado com auxilio de inteligencia artificial:*** 
+* ***texto*** ChatGPT
+* ***imagem*** Microsoft Designer
+
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://github.com/dannyrooh/articles/blob/main/scrum-tia/README.md" style="display: flex; align-items: center;">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub Original Icon">
+        <span style="margin-left: 10px;"><strong>Acesse o prompt que gerou o artigo</strong></span>
+    </a>
+</div>
+</div>
+
+<br>
+
+***#Gestão #Ágil #Scrum***
