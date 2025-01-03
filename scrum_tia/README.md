@@ -4,7 +4,7 @@
 
 :point_right:[**Scrum, como a TIA pode nos ajudar?**](scrum_tia.md)
 
-![**Scrum, como a TIA pode nos ajudar?**](images/header-tia.jpeg)
+![**Scrum, como a TIA pode nos ajudar?**](images/header.jpeg)
 
 ## Prompt
 

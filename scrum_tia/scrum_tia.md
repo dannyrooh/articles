@@ -1,6 +1,6 @@
 # Scrum, como a TIA pode nos ajudar?
 
-![Scrum](images/header-tia.jpeg)
+![Scrum](images/header.jpeg)
 
 ## Introdução
 
@@ -55,7 +55,7 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
 <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/dannyrooh/articles/blob/main/scrum-tia/README.md" style="display: flex; align-items: center;">
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub Original Icon">
-        <span style="margin-left: 10px;"><strong>Acesse o prompt que gerou o artigo</strong></span>
+        <span style="margin-left: 10px;"><strong>Acesse o prompt que o artigo se baseou</strong></span>
     </a>
 </div>
 </div>
@@ -70,7 +70,7 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
    <a href="https://www.linkedin.com/in/dannyrooh-fernandes-de-campos-1446a019/">
       <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn Icon">
    </a>
-   <span style="margin-left: 10px;">by Dannyrooh F Campos -  2024-12-30</span>
+   <span style="margin-left: 10px;">by Dannyrooh F Campos -  30 de desembro de 2024</span>
 </div>
 
 <br>

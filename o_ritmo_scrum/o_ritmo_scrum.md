@@ -84,9 +84,13 @@ Apesar do Scrum Guide, não definir um tempo na pedra para evento, segue uma sug
 |**Participação** | Incentivar a participação de todos os membros da equipe.|
 |**Ação** | Transformar as decisões tomadas nas reuniões em ações concretas.|
 
+<br>
+
 #### Fontes de referência
 
 Scrum Guide - https://scrumguides.org/ - 2024-01-03
+
+---
 
 ***Artigo gerado com auxilio de inteligencia artificial:***
 ***Prompt no [Gemini](https://gemini.google.com/)***
@@ -100,7 +104,7 @@ Edição de Imagens: [Photopea](https://www.photopea.com/) opção free ao Photo
 <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/dannyrooh/articles/blob/main/o_ritmo_scrum/README.md" style="display: flex; align-items: center;">
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub Original Icon">
-        <span style="margin-left: 10px;"><strong>Acesse o prompt que gerou o artigo</strong></span>
+        <span style="margin-left: 10px;"><strong>Acesse o prompt do artigo</strong></span>
     </a>
 </div>
 </div>
@@ -115,7 +119,7 @@ Edição de Imagens: [Photopea](https://www.photopea.com/) opção free ao Photo
    <a href="https://www.linkedin.com/in/dannyrooh-fernandes-de-campos-1446a019/">
       <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn Icon">
    </a>
-   <span style="margin-left: 10px;">by Dannyrooh F Campos - 2025-01-03</span>
+   <span style="margin-left: 10px;">by Dannyrooh F Campos - 03 de janeiro de 2025</span>
 </div>
 
 <br>

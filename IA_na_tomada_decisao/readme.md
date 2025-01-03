@@ -4,6 +4,8 @@
 
 :point_right: [**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](ia_na_tomada_decisao.md)
 
+![**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](images/header.png)
+
 ## Prompt
 
 - **Data:** 28/12/2024

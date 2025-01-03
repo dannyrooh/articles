@@ -4,7 +4,7 @@
 
 👉 [**O Ritmo do Scrum: Uma Jornada em 5 Eventos**](./o_ritmo_scrum.md)
 
-![**O Ritmo do Scrum: Uma Jornada em 5 Eventos**](images/Artigo-OrotimoScrum-Titulo_1960x500.png)
+![**O Ritmo do Scrum: Uma Jornada em 5 Eventos**](images/header.png)
 
 ## Gemini
 

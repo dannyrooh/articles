@@ -1,6 +1,6 @@
 # IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas
 
-![Imagem de IA](./images/capa.png)
+![Imagem de IA](./images/header.png)
 
 
 ## Introdução
@@ -11,7 +11,6 @@ Na era digital, a inteligência artificial (IA) está revolucionando a tomada de
 
 A integração da inteligência artificial (IA) na tomada de decisões está remodelando a forma como gerentes, diretores e empresários conduzem seus negócios. Um dos **principais benefícios** da IA é a **capacidade de analisar grandes volumes de dados em tempo real**, fornecendo **insights acionáveis de forma rápida e precisa**. Por exemplo, ferramentas como o Tableau ou o Microsoft Power BI, quando impulsionadas por IA, podem identificar padrões de desempenho em projetos de desenvolvimento e sugerir mudanças proativas para maximizar a eficiência.
 
-![Imagem de IA](./images/tomada_decisao.webp){height=400px }
 
 "**Investimentos** em inteligência artificial **(IA)** têm demonstrado **retornos significativos** em diversos setores. No setor bancário, por exemplo, aplicações de IA proporcionaram **ganhos de até 10 vezes o valor investido**, evidenciando um retorno sobre o investimento (ROI) altamente positivo. 
 [TELESINTESE - - 3 de outubro de 2024](https://telesintese.com.br/aplicacoes-de-ia-por-bancos-trazem-ganho-ate-10x-o-investimento/?utm_source=chatgpt.coM)
@@ -24,7 +23,6 @@ Além disso, a **adoção** de IA em **processos de marketing** tem mostrado efi
 
 ### Em grego Estrategy
 
-![Imagem de IA](./images/strategy.webp){height=400px }
 
 No âmbito estratégico, a IA **permite previsões mais assertivas** sobre tendências de mercado, ajudando as empresas a se **anteciparem às necessidades dos clientes**. Um caso prático é o uso de modelos preditivos para estimar a demanda por recursos em um projeto de software, otimizando a alocação de desenvolvedores. Empresas como a [IBM adotaram IA]((https://www.reuters.com/technology/ibm-beats-quarterly-revenue-estimates-software-strength-ai-demand-2024-07-24/?utm_source=chatgpt.com)) em suas plataformas de gestão para aumentar a precisão de previsões e reduzir desperdícios, resultando em maior margem de lucro.
 
@@ -32,7 +30,6 @@ No âmbito estratégico, a IA **permite previsões mais assertivas** sobre tend�
 
 ## Limitações Práticas
 
-![Imagem de IA](./images/limitacao_pratica.webp){height=400px }
 
 
 Apesar das vantagens, as limitações práticas também precisam ser consideradas. Sistemas de IA podem não capturar nuances humanas importantes, como o impacto emocional de uma decisão em um time. Um exemplo disso é a implementação de algoritmos que priorizam metas de produtividade sem levar em conta o bem-estar da equipe, o que pode gerar desgaste e altos índices de turnover.
@@ -42,13 +39,11 @@ Apesar das vantagens, as limitações práticas também precisam ser considerada
 
 ### Segurança de dados
 
-![Imagem de IA](./images/seguranca_dados.webp){height=400px }
 
 A segurança é outro ponto crítico. Como a IA depende de dados, a exposição de informações sensíveis é um risco real. Em 2020, uma grande empresa de outsourcing sofreu um ataque cibernético após vulnerabilidades em sua infraestrutura de IA serem exploradas. Gerentes devem garantir que as soluções de IA sejam acompanhadas de fortes protocolos de segurança cibernética para evitar perdas financeiras e de reputação.
 
 ### Custo x Retorno
 
-![Imagem de IA](./images/custo_retorno.webp){height=300px }
 
 
 Os custos de investimento em IA também precisam ser avaliados. Soluções de ponta podem exigir investimentos iniciais significativos, desde a aquisição de ferramentas até a contratação de especialistas em dados e IA. Empresas como startups podem enfrentar dificuldades em justificar esse investimento, embora benefícios de longo prazo, como a automação de tarefas repetitivas, possam gerar economias substanciais.
@@ -57,10 +52,47 @@ Os custos de investimento em IA também precisam ser avaliados. Soluções de po
 
 Em resumo, embora a IA ofereça potencial significativo para melhorar o ROI, é crucial que as empresas avaliem cuidadosamente seus investimentos, considerando tanto o potencial de retorno quanto os desafios associados à implementação eficaz da tecnologia.
 
-</br>
 
-Data de publicação: 28 de dezembro de 2024
-Autor: Dannyrooh F Campos
-Imagem: Lexica.art | Canvas
+
+#### Fontes de referência
+
+Scrum Guide - https://scrumguides.org/ - 2024-01-03
+
+
+---
+
+***Artigo gerado com auxilio de inteligencia artificial:***
+***Prompt no [CHATGpt](https://chatgpt.com/)***
+
+Imagem: [Lexica.art](https://lexica.art/) | [Canvas](https://www.canva.com/)
 Edição de Imagem: Canvas
 Nota: Este artigo foi gerado com a assistência de inteligência artificial (ChatGPT), sob a supervisão e edição humana.
+
+
+
+
+
+<div style="display: flex; align-items: flex-start;">
+    <a href="https://github.com/dannyrooh/articles/blob/main/o_ritmo_scrum/README.md" style="display: flex; align-items: center;">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub Original Icon">
+        <span style="margin-left: 10px;"><strong>Acesse o prompt do artigo</strong></span>
+    </a>
+</div>
+</div>
+
+<BR>
+
+***#Gestão #Ágil #Scrum***
+
+
+---
+
+<div style="display: flex; align-items: flex-start;">
+   <a href="https://www.linkedin.com/in/dannyrooh-fernandes-de-campos-1446a019/">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn Icon">
+   </a>
+   <span style="margin-left: 10px;">by Dannyrooh F Campos - 28 de dezembro de 2024</span>
+</div>
+
+<br>
+
