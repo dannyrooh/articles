@@ -1,4 +1,5 @@
-![](images/Artigo-OrotimoScrum-Titulo_1000x300.png)
+![](images/header.png)
+
 # O Ritmo do Scrum: Uma Jornada em 5 Eventos
 
 ## Introdução
@@ -63,7 +64,7 @@ O Scrum Guide enfatiza que a duração da Sprint deve ser cuidadosamente balance
 
 ### Diretrizes para um timebox
 
-![alt text](image.png)
+![alt text](images/cliclo_scrum.png)
 
 | Evento | Timebox de 1 semana | Timebox de 1 mês | Adaptação | Participantes | Inspeção |
 | --- | :---: | :---: | --- | --- | --- |
@@ -83,7 +84,6 @@ Apesar do Scrum Guide, não definir um tempo na pedra para evento, segue uma sug
 |**Participação** | Incentivar a participação de todos os membros da equipe.|
 |**Ação** | Transformar as decisões tomadas nas reuniões em ações concretas.|
 
-
 #### Fontes de referência
 
 Scrum Guide - https://scrumguides.org/ - 2024-01-03
@@ -94,8 +94,7 @@ Scrum Guide - https://scrumguides.org/ - 2024-01-03
 Imagens: [FreePik](https://www.freepik.com/)
 Edição de Imagens: [Photopea](https://www.photopea.com/) opção free ao Photoshop
 
-Artigo baseado na Desafio da Certificação ScrumMaster no template no Miro
-[Template](https://miro.com/app/board/uXjVLxnZ2kQ=/) https://miro.com/app/board/uXjVLxnZ2kQ=/ 
+
 
 
 <div style="display: flex; align-items: flex-start;">
