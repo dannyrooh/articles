@@ -42,3 +42,23 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 | Site | Publicação | Link |
 | --- | --- | --- |
 | *dio.me* |  |
+
+
+### 3. [**O Ritmo do Scrum: Uma Jornada em 5 Eventos**](./o_ritmo_scrum/readme.md)
+
+<table style="border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
+            <img src="./o_ritmo_scrum/images/Artigo-OrotimoScrum-Tumbnail.png" height="150px" />
+        </td>
+        <td style="border: none;">
+            <em>#Gestão #Scrum #Ágil</em><br />
+            <em>03/01/2025</em>
+        </td>
+    </tr>
+</table>
+
+
+| Site | Publicação | Link |
+| --- | --- | --- |
+| *dio.me* |  |
