@@ -47,8 +47,8 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
 ---
 
 ***Artigo gerado com auxilio de inteligencia artificial:*** 
-* ***texto*** ChatGPT
-* ***imagem*** Microsoft Designer
+* ***prompt texto*** ChatGPT
+* ***prompt imagem*** Microsoft Designer
 
 <br>
 
@@ -63,3 +63,14 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
 <br>
 
 ***#Gestão #Ágil #Scrum***
+
+---
+
+<div style="display: flex; align-items: flex-start;">
+   <a href="https://www.linkedin.com/in/dannyrooh-fernandes-de-campos-1446a019/">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn Icon">
+   </a>
+   <span style="margin-left: 10px;">by Dannyrooh F Campos -  2024-12-30</span>
+</div>
+
+<br>
