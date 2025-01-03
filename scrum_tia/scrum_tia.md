@@ -55,7 +55,7 @@ O Scrum é mais do que uma metodologia; é uma filosofia que promove transparên
 <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/dannyrooh/articles/blob/main/scrum-tia/README.md" style="display: flex; align-items: center;">
         <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub Original Icon">
-        <span style="margin-left: 10px;"><strong>Acesse o prompt que o artigo se baseou</strong></span>
+        <span style="margin-left: 10px;"><strong>Acesse o prompt do artigo</strong></span>
     </a>
 </div>
 </div>
