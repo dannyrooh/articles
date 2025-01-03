@@ -5,12 +5,12 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 
 ## Links
 
-### 1. [**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](./ia_na_tomada_decisao/README.md)
+### 1. [**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](./ia_tomada_decisao/README.md)
 
 <table style="border: none;">
     <tr style="border: none;">
         <td style="border: none;">
-            <img src="./IA_na_tomada_decisao/images/header.png" height="100px" />
+            <img src="./ia_tomada_decisao/images/header.png" height="100px" />
         </td>
         <td style="border: none;">
             <em>#Inteligência Artificial</em><br />

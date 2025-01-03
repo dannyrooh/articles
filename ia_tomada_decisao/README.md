@@ -2,7 +2,7 @@
 
 ## Artigo em Markdown
 
-:point_right: [**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](ia_na_tomada_decisao.md)
+:point_right: [**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](ia_tomada_decisao.md)
 
 ![**IA na Tomada de Decisão: Benefícios Estratégicos e Limitações Práticas**](images/header.png)
 
