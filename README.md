@@ -62,3 +62,22 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 | Site | Publicação | Link |
 | --- | --- | --- |
 | *dio.me* |  |
+
+### 4. [**Hospital Sírio-Libanês, Scrum aplicado na saúde**](./case_hospital_sirio_libanes/README.md)
+
+<table style="border: none;">
+    <tr style="border: none;">
+        <td style="border: none;">
+            <img src="./case_hospital_sirio_libanes/images/thumbnail.png" height="150px" />
+        </td>
+        <td style="border: none;">
+            <em>#Gestão #Scrum #Ágil</em><br />
+            <em>03/01/2025</em>
+        </td>
+    </tr>
+</table>
+
+
+| Site | Publicação | Link |
+| --- | --- | --- |
+| *dio.me* |  |
