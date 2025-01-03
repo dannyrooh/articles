@@ -1,0 +1,95 @@
+# HOSPITAL SÍRIO-LIBANÊS USA SCRUM PARA RESPONDER À PANDEMIA DE COVID-19 AO REDUZIR PERDAS E OFERECENDO SEGURANÇA A TRABALHADORES DA INHA E FRENTE
+
+Reconhecido mundialmente pelo padrão de excelência e relevância em saúde, o Hospital Sírio-Libanês ocupa posição consolidada como referência brasileira
+entidade de cuidados de saúde construída ao longo dos últimos 100 anos. Por meio de suas unidades de atendimento e redes sociais responsabilidade, esforços de ensino e pesquisa, ajuda um número crescente de Brasileiros tenham uma vida melhor e mais saudável. Isto inclui os mais de 120.000 pacientes atendidos anualmente em suas instalações e cidadãos beneficiários de cooperação público-privada, projetos de apoio ao Sistema Único de Saúde (SUS) e conhecimento médico disseminado em seus programas de saúde. Com um área de aproximadamente 100 mil m² no bairro Bela Vista, em São Paulo, atende mais de 40 especialidades e conta com 710 leitos e investimento
+em responsabilidade social de R$ 150 milhões no mesmo período. Eles são uma família organização pertencente e operada.
+
+## O desafio
+
+O Hospital Sírio-Libanês queria encontrar uma forma de responder de forma mais eficiente ao necessidades individualizadas dos clientes e necessidades operacionais. Eles anteriormente seguiram um processo em cascata e estavam enfrentando falta de visão, resultando em má priorização e desalinhamento. Os projetos e resultados foram
+medido manualmente em uma planilha, o que em casos mais complexos seria gerar inconsistências ou erros nas medições do progresso e resultados do projeto. Não estava claro se eles estavam tendo sucesso. Eles também tiveram um choque de modelos de trabalho. A organização estava funcionando em um modelo hierárquico e departamental e eles estavam priorizando problemas locais à frente dos institucionais. Cada grupo trabalhou de maneiras diferentes.
+
+Devido a esses desafios e outros, o hospital começou sua jornada para se tornar uma organização Ágil. Eles começaram adicionando uma mentalidade Ágil à sua cultura, com o objetivo de capacitar as diversas áreas do Hospital (TI, RH, Jurídico, Comercial, Centro Cirúrgico, Qualidade e Segurança, Atendimento de Emergência e outros) para responder com mais eficiência às necessidades individualizadas dos pacientes e ao foco de o negócio. Eles decidiram se concentrar na maximização do valor entrega, reduzindo o desperdício de materiais, dinheiro, esforço e capital intelectual.
+
+## A solução
+
+O primeiro passo da transição Agile foi a criação de um Centro Ágil de Excelência para treinar pessoas em Ágil incluindo treinamento em ferramentas para apoiar a execução em um forma adaptada ao contexto de cada uma das áreas formadas, em grande parte, por profissionais de saúde. Eles escolheram Scrum como sua estrutura principal a ser usada porque:
+
+> “Scrum é um modelo simples de ensinar”, disse Conrado Tramontini, Chefe de Transformação Ágil.
+“Scrum tem eventos bem descritos e responsabilidades além do empírico modelo bastante conhecido pelos profissionais de saúde.
+Estas características estão de acordo com as nossas necessidades, além disso, o Scrum é bem conhecido.”
+
+A partir daí, o primeiro projeto escolhido foi aquele com alta complexidade que envolveu diferentes áreas do organização. O nome do projeto era Receita
+Ciclo ARTE. O projeto do ciclo de receitas teve como objetivo reduzir o prazo médio de recebimento de contas e reduzir o número de glosas iniciais informadas pelas operadoras de saúde. Como um parte desse esforço, trabalharam na automação de processos, melhoria de protocolos médios, melhorias no bases de dados para registro de medicamentos e materiais médicos, além de aprimorar as embalagens de produtos oferecidos.
+O Revenue Cycle ART contou com 40 Desenvolvedores, divididos em 5 equipes Scrum. Cada Time Scrum tinha diferentes competências - médicos, enfermeiros, analistas financeiros, tecnologia, preços e registros, bem como software desenvolvedores. Os membros do Time Scrum vieram de todos diferentes áreas relacionadas à receita, como finanças, clínica governança, equipes de atendimento, produtos, cadastro, recursos humanos recursos e desenvolvimento de software. Havia três Scrum Masters. Eles trabalharam em Sprints de 2 semanas e incorporou sessões de planejamento de PI de 3 meses da SAFe.
+
+O Product Owner tinha profundo conhecimento sobre o produto e o negócio, e foi responsável por maximizando o valor do produto e o trabalho de
+a Equipe de Desenvolvimento. O Product Owner exerceu liderança sobre o produto que está sendo desenvolvido e fabricado a ponte entre o negócio e o Time Scrum,
+compreender as necessidades e prioridades de todos aqueles envolvidos na organização para atuar como seu porta-voz.
+Outros membros do Time Scrum também se envolveram com as partes interessadas para entender melhor suas necessidades e esclarecer dúvidas.
+Eles também utilizaram o gerenciamento de produtos e soluções papel do SAFe como membro dos Times Scrum alinhados Gerente de Fluxo de Valor do Lean em uma função chamada Fluxo de Valor 
+Proprietário, considerando-os trabalhando com o Produto Proprietário para ajudar:
+
+• Identificar necessidades e oportunidades de negócios do ponto de vista do cliente
+• Priorizar itens do backlog 
+• Orientar o trabalho do Release Train atravésa definição de visão e roteiro
+• Analisar custos, impactos no valor cadeia, retorno e retorno do investimento do ponto de vista empresarial 
+• Identificar necessidades e oportunidades de negócios do ponto de vista do cliente alinhado com o proprietário da empresa (função dentro do SAFe)
+• Orientar o trabalho do Release Train através a definição de visão e roteiro Trabalhar em conjunto com os RTEs e o Arquiteto Proprietários devem garantir a viabilidade técnica e a cadência das entregas da ART
+
+Sua abordagem inicial consistiu em uma experiência imersiva workshop com todas as pessoas envolvidas no problema, com o objetivo de criar uma visão MVP (Mínimo
+Produto Viável) e capacitar líderes e outros colaboradores de diversas áreas com a mentalidade Ágil e atuação de suas equipes para construção de soluções.
+
+> “À medida que trouxemos a mentalidade Ágil para o áreas de negócio, todas trabalharam com mais autonomia e de forma mais sustentável”, disse Tramontini. “Os diretores pararam de vir encontrar soluções para que a equipe pudesse trabalhar juntos para desenvolver uma solução
+
+Com o impacto positivo deste trabalho inicial proporcionando uma transformação cultural da mentalidade, outras áreas buscaram abordagem Ágil para ser usada em novos projetos, trazendo melhorias e impactando diferentes setores.
+Em seguida, o foco do Agile Center of Excellence estava em operações e estratégia. Além disso, eles se concentraram em a realização de workshops, possibilitando aos líderes capacitar agilidade e antecipar as necessidades dos pacientes e responder a eles de forma institucional. Eles finalmente começaram a adotar uma abordagem ágil em seus projetos de inovação aberta.
+Como passo inicial, eles treinaram toda a equipe em Scrum, o que era novo para a grande maioria deles. Além disso, eles precisavam integrar toda a equipe de quase 40
+pessoas da época, em que muitos não se conheciam. 
+Depois de um mês e meio de trabalho, eles foram impactados pela pandemia de COVID-19, fazendo com que transitassem trabalhar remotamente, mas as equipes ainda estavam aprendendo.
+Nesse ponto o Scrum ajudou muito, pois proporcionou transparência no trabalho diário das equipes e de cada equipe membro. Os Eventos Scrum garantiram a comunicação e
+colaboração e, consequentemente, a cadência das entregas. 
+Do ponto de vista das ferramentas, eles implementaram o seguinte para ajudar a promover a transparência e a colaboração:
+
+• Azure DevOps como um quadro Kanban
+• Miro para visualização da equipe
+• Equipes/Sharepoint para comunicação
+
+Eles também incorporaram as seguintes práticas:
+
+• Iniciação Enxuta
+• AWS trabalhando de trás para frente
+• Planejamento SAFe PI
+
+> “Um grande benefício de usar Scrum é como ele fornece a oportunidade para muitos colaboradores ter autonomia nas decisões, maior visibilidade,
+desenvolvimento de novas competências e ter uma visão macro dos processos que permeiam a cadeia do ciclo.” -
+Diego Aristides, Executivo de Inovação e Ágil Transformação para o Sírio-Libanês
+
+Eles fizeram a transição para se concentrar no desenvolvimento produtos para trazer eficiência a cada fluxo de valor enquanto melhorando a experiência do paciente e do funcionário. Alguns exemplos são:
+• Os produtos que automatizaram diferentes processos
+de troca de informações com as operadoras, reduzindo a quantidade de rejeições de cobrança e melhorando o momento do recebimento de forma muito significativa. A inicial
+perdas (perda de receita) foram reduzidas em R$ 4,5 milhões/mês, passando de 10% em 2019 para 7,5% em 2021.
+• As soluções foram construídas em 4 dias, o que permitiu para que respondam rapidamente às necessidades criadas pela pandemia, como uma ferramenta para controlar o
+agenda de vacinação contra a COVID-19 por prioridade, uma Solução de controle de fluxo de atendimento de emergência, maximizando capacidade de atendimento e redução do tempo de espera dos pacientes proporcionando-lhes uma experiência melhor
+
+Houve algumas questões e problemas previstos que o organização teve em relação a este projeto. Um desses era que eles queriam impactar positivamente os funcionários
+e gestores de uma forma que eles vissem os benefícios reais de adotando a abordagem Ágil. Felizmente, a plena aceitação estava acontecendo naturalmente à medida que os resultados surgiam e amplamente divulgado.
+Eles também enfrentaram a necessidade de distanciamento social e trabalho em home office por conta da pandemia. Para resolver este problema, uma abordagem baseada em grupo e presencial as conversas foram adaptadas a um modelo de teletrabalho com o uso de ferramentas colaborativas e mais inclusivas facilitação. Isso permitiu que as pessoas que estão trabalhando em um dia a dia com pacientes e pessoas de outros áreas relacionadas com o problema a participarem mais activamente.
+Ao longo deste projeto, eles precisaram adaptar o Scrum para profissionais de saúde, uma vez que o referencial foi inicialmente criado para desenvolvimento de software. Eles perceberam o Scrum era uma estrutura básica que eles não precisavam mudar.
+No entanto, acrescentaram o uso de exemplos e práticas relacionadas às atividades diárias das equipes. Eles também forneceu treinamento prático para as equipes. Segundo, com as necessárias adaptações no seu modelo de execução, testes e avaliando os cenários de adoção com as equipes, eles ouviram as pessoas que estavam trabalhando e coletaram sugestões para melhoria.
+Outra necessidade que a organização tinha era a continuidade dos Eventos Scrum e workshops colaborativos para produtos descoberta quando a segunda onda de COVID-19 chegou. Eles precisavam melhorar sua abordagem para responder às mudanças. 
+Eles utilizaram o conhecimento do Agile Center of Excellence e das pessoas envolvidas no processo. A seguir, eles identificaram pontos problemáticos que encontraram ao longo do caminho e oportunidades para reduzi-los. Em relação às métricas que eles usaram para medir progresso, no nível do produto eles usaram OKRs, KPIs, NPS e outras métricas específicas do produto, como número de sucessos consultas, tempo de espera para atendimento, número de dados de consultas/prontuários na base de médicos do ministério e tempo de resposta no envio de itens de cobrança.
+
+## Resultados
+
+Hoje, o Hospital Sírio-Libanês é composto por aproximadamente 9 mil funcionários, dos quais 7 mil atuam em áreas operacionais áreas e 3.000 em áreas administrativas como RH, Finanças e outras áreas e um Centro de Excelência em Agilidade com 6 pessoas que disseminam agilidade para toda a organização.
+Entre os incrementos realizados que os times Scrum entregaram, eles viram melhorias em processos e produtos, o contribuição da tecnologia de automação que agiliza as verificações, a adição de robôs que substituem tarefas repetitivas e escalonáveis e atividades de alto volume, desenvolvimento de aplicações que tragam democratização de dados e auxílio na decisão fazendo, reduzindo a quantidade de rejeições de cobranças nas finanças e melhorando o prazo de pagamentos recebidos. A inicial as perdas (perda de receita) foram reduzidas em R$ 4,5 milhões/mês, passando de 10% em 2019 para 7,5% em 2021.
+
+> “Em todas as etapas, o uso do Scrum em uma cultura Ágil levou a resultados impressionantes em um tempo de resposta nunca antes visto ou mesmo imaginado”, disse Ailton Brandão, CIO do Sírio-Libanês. “Scrum aumentou a capacidade das equipes de entregar valor, deu mais autonomia aos profissionais, melhorou a qualidade e clareza da comunicação e, especialmente, conferiu às diversas áreas da instituição a capacidade de responder rapidamente às complexas demandas de saúde.
+
+## Sobre Scrum.org
+
+Scrum.org, a Casa do Scrum, foi fundada pelo co-criador do Scrum, Ken Schwaber, como uma organização baseada em uma missão para ajudar pessoas e equipes resolvem problemas complexos. Fazemos isso permitindo que as pessoas apliquem o Professional Scrum por meio de cursos de treinamento prático, certificações reconhecidas globalmente e aprendizado contínuo, tudo baseado em um modelo de competência comum.
+Scrum.org apoia pessoas onde quer que estejam em sua jornada de aprendizagem, desde iniciantes até altamente experientes profissional, ajudando-os a crescer ao longo do tempo com oportunidades e recursos de aprendizagem contínua. Membros da comunidade compartilhe conhecimento e obtenha novos insights uns dos outros, aproveitando fóruns, blogs e muito mais.
+
+
