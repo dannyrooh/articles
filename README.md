@@ -61,7 +61,7 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 
 | Site | Publicação | Link |
 | --- | --- | --- |
-| *dio.me* |  |
+| [*dio.me*](https://web.dio.me/articles/o-ritmo-do-scrum-uma-jornada-em-5-eventos?back=%2Farticles&page=1&order=oldest) | [08/01/2023](https://web.dio.me/articles/o-ritmo-do-scrum-uma-jornada-em-5-eventos?back=%2Farticles&page=1&order=oldest) | https://web.dio.me/articles/o-ritmo-do-scrum-uma-jornada-em-5-eventos?back=%2Farticles&page=1&order=oldest
 
 ### 4. [**Hospital Sírio-Libanês, Scrum aplicado na saúde**](./case_hospital_sirio_libanes/README.md)
 
@@ -80,4 +80,4 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 
 | Site | Publicação | Link |
 | --- | --- | --- |
-| *dio.me* |  |
+| [*dio.me*](https://web.dio.me/articles/hospital-sirio-libanes-scrum-aplicado-na-saude?back=%2Farticles&page=1&order=oldest) | [07/01/2025 07:17](https://web.dio.me/articles/hospital-sirio-libanes-scrum-aplicado-na-saude?back=%2Farticles&page=1&order=oldest) | https://web.dio.me/articles/hospital-sirio-libanes-scrum-aplicado-na-saude?back=%2Farticles&page=1&order=oldest
