@@ -1,4 +1,4 @@
-# Scrum, como a TIA pode nos ajudar?
+# Scrum, a T.I.A. pode nos ajudar?
 
 ![Scrum](images/header.jpeg)
 
@@ -34,7 +34,7 @@ Não! Apesar de ser muito popular no desenvolvimento de software, Scrum pode ser
 
 ## Conclusão
 
-O Scrum é mais do que uma metodologia; é uma filosofia que promove transparência, colaboração e melhoria contínua. Ele permite que equipes enfrentem a complexidade com confiança, adaptando-se rapidamente às mudanças e entregando valor constantemente. Seja você um desenvolvedor ou cliente, abraçar o Scrum pode transformar a forma como você trabalha e entrega resultados.
+O Scrum é mais do que um framework, é uma filosofia que promove transparência, colaboração e melhoria contínua. Ele permite que equipes enfrentem a complexidade com confiança, adaptando-se rapidamente às mudanças e entregando valor constantemente. Seja você um desenvolvedor ou cliente, abraçar o Scrum pode transformar a forma como você trabalha e entrega resultados.
 
 ## Fontes de referência
  

@@ -1,3 +1,4 @@
 *.psd
 *.old
 /doc
+/angular_crud

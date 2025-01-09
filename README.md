@@ -24,7 +24,7 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 | --- | --- | --- |
 | *dio.me* | 28/12/2024 | https://web.dio.me/articles/ia-na-tomada-de-decisao-beneficios-estrategicos-e-limitacoes-praticas?back=%2Farticles&page=1&order=oldest |
 
-### 2. [**Scrum, como a TIA pode nos ajudar?**](./scrum_tia/README.md)
+### 2. [**Scrum e T.I.A, a união perfeita?**](./scrum_tia/README.md)
 
 <table style="border: none;">
     <tr style="border: none;">
@@ -41,7 +41,7 @@ Material bruto dos artigos, como prompts, pesquisas, imagens e links
 
 | Site | Publicação | Link |
 | --- | --- | --- |
-| *dio.me* |  |
+| [*dio.me*](https://web.dio.me/articles/scrum-e-tia-a-uniao-perfeita?back=%2Farticles&open-modal=true&page=1&order=oldest) |  [09/01/2025](https://web.dio.me/articles/scrum-e-tia-a-uniao-perfeita?back=%2Farticles&open-modal=true&page=1&order=oldest) | https://web.dio.me/articles/scrum-e-tia-a-uniao-perfeita?back=%2Farticles&open-modal=true&page=1&order=oldest
 
 
 ### 3. [**O Ritmo do Scrum: Uma Jornada em 5 Eventos**](./o_ritmo_scrum/README.md)
